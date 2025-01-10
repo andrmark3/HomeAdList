@@ -1,0 +1,17 @@
+#General Ad Domains
+ad.yieldlab.net
+adsafeprotected.com
+adnxs.com
+adsrvr.org
+adform.net
+advertising.com
+analytics.yahoo.com
+rubiconproject.com
+criteo.com
+criteo.net
+taboola.com
+outbrain.com
+zergnet.com
+quantserve.com
+media.net
+cdn.ampproject.org
